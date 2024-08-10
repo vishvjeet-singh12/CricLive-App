@@ -1,0 +1,11 @@
+.AdminNav{
+    gap: 10px !important;
+    justify-content: center;
+}
+.li{
+    margin: 20px;
+    justify-content: left;
+}
+.AdminNav{
+    display: flex;
+}
